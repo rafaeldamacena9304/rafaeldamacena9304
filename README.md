@@ -18,9 +18,7 @@ Aqui estão algumas das tecnologias que eu uso e gosto de trabalhar:
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=ffffff)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
-## 📊 Minhas Linguagens Mais Usadas
-
-Aqui está um gráfico das minhas linguagens de programação mais usadas no GitHub, com base nos meus commits recentes:
+## 📊 Minhas Linguagens Mais Usadas no Github
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldamacena9304&layout=compact&theme=dark)
 
