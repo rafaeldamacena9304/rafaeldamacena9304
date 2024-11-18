@@ -29,6 +29,6 @@ Aqui estão algumas das tecnologias que eu uso e gosto de trabalhar:
 Se você está interessado em colaborar em projetos ou apenas bater um papo sobre tecnologia, fique à vontade para me contatar!
 
 - 📧 Email: [rafaeldamacena9304@gmail.com](mailto:rafaeldamacena9304@gmail.com)
-- 🌐 LinkedIn: [Rafael Damacena](https://www.linkedin.com/in/rafael-damacena-4aa03024a/)
+- 🌐 LinkedIn: [Rafael Damacena](https://www.linkedin.com/in/rafaeldamacena9304/)
 
 ---
