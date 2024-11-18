@@ -23,13 +23,13 @@ Aqui estão algumas das tecnologias que eu uso e gosto de trabalhar:
 
 Aqui está um gráfico das minhas linguagens de programação mais usadas no GitHub, com base nos meus commits recentes:
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldamacena&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldamacena9304&layout=compact&theme=dark)
 
 ## 📈 Estatísticas do GitHub
 
 Eu também tenho algumas estatísticas interessantes do meu perfil no GitHub:
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rafaeldamacena&show_icons=true&count_private=true&theme=dark)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rafaeldamacena9304&show_icons=true&count_private=true&theme=dark)
 
 ---
 
