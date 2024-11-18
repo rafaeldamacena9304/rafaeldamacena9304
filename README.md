@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Damacena 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Full-Stack** com foco em **Python**, **JavaScript**, **TypeScript** e diversas tecnologias front-end e back-end. Estou sempre aprendendo e buscando novas oportunidades para crescer e contribuir com projetos incríveis.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Full-Stack** com foco em **Python**, **JavaScript**, **TypeScript** e diversas tecnologias front-end e back-end.
 
 ## 🚀 Sobre Mim
 
