@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Full-Stack** com foco 
 ## 🚀 Sobre Mim
 
 - 💻 Desenvolvedor Full-Stack com conhecimentos em **React**, **Vue.js**, **Flask**, **Django**, **TypeScript** e muito mais.
-- 🌱 Tenho interesse em aprender mais sobre **inteligência artificial**, **Machine learning** e **Cybersecurity**.
+- 🌱 Tenho interesse em aprender mais sobre **Machine learning** e **Cybersecurity**.
 - 💡 Sempre em busca de estudar e me tornar um profissional melhor a cada dia.
 - 🎯 Valores: Priorizar a solução de problemas de maneira eficiente com base no conhecimento do todo, não de frameworks. Eficiência e Perfeccionismo
 
